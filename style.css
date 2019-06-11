@@ -1,0 +1,24 @@
+#clickAndSelectItem1 .flex-center{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#clickAndSelectItem1 .clickOpenCard{
+  background: lightgreen;
+  padding: 5px 10px;
+}
+
+#clickAndSelectItem1 .btn-section{
+  margin-bottom: 15px;
+}
+
+.cardStyle{
+  background: #fa4a86;
+  padding: 5px 10px;
+  position: fixed;
+  top: 25%;
+  left: 5%;
+  width: 90%;
+  height: 200px;
+}
